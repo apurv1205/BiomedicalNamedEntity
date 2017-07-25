@@ -1,0 +1,14 @@
+**************  30% test data
+
+Example test case :
+
+We focused on the contribution of two major products of activated monocytes, prostaglandin E2 and interleukin 1beta (IL-1beta), to the MCM modulatory action.
+
+('Predicted:', '0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 1 1 1')
+('Correct:  ', u'0 0 0 0 0 0 0 1 0 0 1 1 1 1 0 1 1 1 0 0 1 0 1')
+             precision    recall  f1-score   support
+
+          0       0.97      0.96      0.97     63075
+          1       0.96      0.97      0.96     59981
+
+avg / total       0.97      0.97      0.97    123056
